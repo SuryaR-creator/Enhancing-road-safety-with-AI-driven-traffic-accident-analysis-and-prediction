@@ -1,4 +1,4 @@
-# mn-project
+# Enhancing road safety with AI-driven traffic accident analysis and prediction
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
